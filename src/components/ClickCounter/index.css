@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.counter-card {
+  text-align: center;
+}
+.count {
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+.span {
+  color: #c20a72;
+}
+
+.caption {
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #007bff;
+  outline: none;
+  cursor: pointer;
+  border-width: 0px;
+  padding: 5px;
+  border-radius: 3px;
+}
